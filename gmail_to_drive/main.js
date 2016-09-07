@@ -3,8 +3,6 @@ $( document ).ready(function(){
   //});
 });
 
-chrome.
-
 function appendButton(){
   if(chrome.identity == null || chrome.identity == 'undefined'){
     $('#content').append('<button id="login">Login con google</button>')
