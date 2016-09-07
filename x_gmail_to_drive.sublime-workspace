@@ -1,0 +1,481 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rankin",
+				"rankings"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "gmail_to_drive/manifest.json",
+			"settings":
+			{
+				"buffer_size": 724,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gmail_to_drive/main.css",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gmail_to_drive/popup.js",
+			"settings":
+			{
+				"buffer_size": 4590,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gmail_to_drive/main.js",
+			"settings":
+			{
+				"buffer_size": 451,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gmail_to_drive/popup.html",
+			"settings":
+			{
+				"buffer_size": 1154,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 390.0,
+		"last_filter": "rei",
+		"selected_items":
+		[
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/carlos/x_gmail_to_drive",
+		"/home/carlos/x_gmail_to_drive/gmail_to_drive"
+	],
+	"file_history":
+	[
+		"/home/carlos/x_gmail_to_drive/manifest.json",
+		"/home/carlos/Escritorio/llinacont",
+		"/home/carlos/Escritorio/outlook",
+		"/home/carlos/MEGAsync/seguimiento/foulders-api/wp-config.php",
+		"/tmp/fz3temp-1/version.php",
+		"/tmp/fz3temp-1/index.php",
+		"/tmp/fz3temp-2/.htaccess",
+		"/tmp/fz3temp-2/.htaccess 2",
+		"/home/carlos/Descargas/wordpress_en/wp-content/plugins/index.php",
+		"/tmp/fz3temp-1/wp-load.php",
+		"/tmp/fz3temp-1/wp-config.php",
+		"/tmp/fz3temp-1/index 6.php",
+		"/tmp/fz3temp-1/index 2.php",
+		"/tmp/fz3temp-1/hello.php",
+		"/tmp/fz3temp-1/index 3.php",
+		"/tmp/fz3temp-1/index 5.php",
+		"/tmp/fz3temp-1/index 4.php",
+		"/tmp/fz3temp-1/.htaccess 2",
+		"/tmp/fz3temp-1/.htaccess",
+		"/tmp/fz3temp-1/wp-config 4.php",
+		"/tmp/fz3temp-1/upl.php",
+		"/tmp/fz3temp-1/advanced-cache.php",
+		"/home/carlos/Descargas/foulders/index.php",
+		"/home/carlos/Descargas/foulders/wp-admin/index.php",
+		"/home/carlos/Descargas/foulders/wp-content/index.php",
+		"/home/carlos/Descargas/foulders/wp-admin/network/index.php",
+		"/home/carlos/Descargas/foulders/wp-admin/user/index.php",
+		"/home/carlos/Descargas/foulders/wp-content/plugins/index.php",
+		"/home/carlos/Descargas/foulders/wp-content/themes/index.php",
+		"/tmp/fz3temp-1/.htaccess 3",
+		"/tmp/fz3temp-1/wp-cache-config.php",
+		"/home/carlos/Descargas/needleeWeb.sql",
+		"/tmp/fz3temp-1/wp-config 2.php",
+		"/tmp/fz3temp-1/wp-config 3.php",
+		"/tmp/fz3temp-1/wp-db.php.suspected",
+		"/home/carlos/Escritorio/wp-config.php",
+		"/home/carlos/Descargas/wp-content/plugins/get-the-image/login.php.suspected",
+		"/home/carlos/x_gmail_to_drive/popup.html",
+		"/home/carlos/x_gmail_to_drive/main.js",
+		"/tmp/fz3temp-1/wp-settings.php",
+		"/home/carlos/ttf/public/500.html",
+		"/home/carlos/ttf/public/422.html",
+		"/home/carlos/ttf/public/404.html",
+		"/home/carlos/ttf/Gemfile",
+		"/home/carlos/ttf/config/newrelic.yml",
+		"/home/carlos/ttf/app/views/conversations/show.html.erb",
+		"/home/carlos/ttf/app/views/layouts/application.html.erb",
+		"/home/carlos/ttf/config/locales/es.yml",
+		"/home/carlos/ttf/config/locales/en.yml",
+		"/home/carlos/ttf/app/assets/stylesheets/conversations.css.scss",
+		"/home/carlos/ttf/app/assets/stylesheets/main.css",
+		"/home/carlos/ttf/config/initializers/devise.rb",
+		"/home/carlos/ttf/app/models/video.rb",
+		"/home/carlos/ttf/app/models/authorization.rb",
+		"/home/carlos/x_todo_list/log.txt",
+		"/home/carlos/ttf/config/database.yml",
+		"/home/carlos/ttf/users.csv",
+		"/home/carlos/ttf/db/seeds.rb",
+		"/home/carlos/ttf/users (copia).csv",
+		"/home/carlos/ttf/users-old.csv",
+		"/home/carlos/ttf/config/environments/production.rb",
+		"/home/carlos/Escritorio/usuariosttf",
+		"/home/carlos/ttf/app/views/videos/_video_widget.html.erb",
+		"/home/carlos/ttf/config/routes.rb",
+		"/home/carlos/ttf/app/views/users/_account.html.erb",
+		"/home/carlos/ttf/app/views/users/account.html.erb",
+		"/home/carlos/ttf/app/controllers/users_controller.rb",
+		"/home/carlos/ttf/app/uploaders/image_uploader.rb",
+		"/home/carlos/MEGAsync/ttf/ATT00001.html",
+		"/home/carlos/ttf/app/views/users/mailer/reset_password_instructions.html.erb",
+		"/home/carlos/MEGAsync/jenkins/pasos.txt",
+		"/home/carlos/ttf/app/controllers/application_controller.rb",
+		"/home/carlos/ttf/config/application.rb",
+		"/tmp/.fr-4trOr5/initializr/index.html",
+		"/home/carlos/ttf/config/locales/devise.en.yml",
+		"/home/carlos/ttf/app/mailers/ttf_mailer.rb",
+		"/home/carlos/ttf/app/views/users/mailer/confirmation_instructions.html.erb",
+		"/home/carlos/ttf/app/views/devise/mailer/unlock_instructions.html.erb",
+		"/home/carlos/ttf/app/views/devise/mailer/reset_password_instructions.html.erb",
+		"/home/carlos/ttf/app/views/devise/mailer/confirmation_instructions.html.erb",
+		"/home/carlos/MEGAsync/ttf/en.yml",
+		"/home/carlos/ttf/app/controllers/pages_controller.rb",
+		"/home/carlos/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/carlos/ttf/app/models/change.rb",
+		"/home/carlos/.config/sublime-text-3/Packages/User/YAML.sublime-settings",
+		"/home/carlos/ttf/config/social_keys.yml",
+		"/home/carlos/source/Makefile"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/carlos/ttf/app/assets/stylesheets",
+			"/home/carlos/ttf/app/assets",
+			"/home/carlos/ttf",
+			"/home/carlos/ttf/app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ripyot_",
+			"overflow",
+			"white-space",
+			"chat",
+			"truncate",
+			"TALENTS",
+			"latestClick",
+			"news",
+			"jeredo",
+			"jered",
+			"ja",
+			"meno",
+			"bos",
+			"aws",
+			"inicio",
+			"en",
+			"confirmation_instructions"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"wp_"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/home/carlos/x_gmail_to_drive"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "gmail_to_drive/manifest.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 724,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								565,
+								565
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "gmail_to_drive/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "gmail_to_drive/popup.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4590,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "gmail_to_drive/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 451,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								405,
+								405
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "gmail_to_drive/popup.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1154,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1126,
+								1126
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
